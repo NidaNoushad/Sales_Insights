@@ -50,4 +50,4 @@ Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
  connect with me through:
 
  - **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/nidanoushad)
--  **Email**: nidanoushad11@gmail.com
+-  **Email**: nida11noushad@gmail.com
